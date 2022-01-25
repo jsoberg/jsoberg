@@ -1,7 +1,7 @@
 <h2 align="center">Joshua Soberg, Software Engineer</h2>
 
 <p align="left">
-My name is Joshua Soberg, and I'm a Software Engineer with 7+ years professional experience designing, developing, and publishing large-scale software solutions, mainly in the Android/Kotlin/Java space. Most of my experience involves delivering mobile applications for highly distributed, low reliability, and low bandwidth network environments. I enjoy trying out new languages/technologies, contributing to open source projects whenever possible, and <i>continuously</i> invalidating caches and restarting Android Studio.
+My name is Joshua Soberg, and I'm a Software Engineer with 8+ years professional experience designing, developing, and publishing large-scale software solutions, mainly in the Android/Kotlin/Java space. Most of my experience involves delivering mobile applications for highly distributed, low reliability, and low bandwidth network environments. I enjoy trying out new languages/technologies, contributing to open source projects whenever possible, and <i>continuously</i> invalidating caches and restarting Android Studio.
 </p>
 
 <p align="left">
