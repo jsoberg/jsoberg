@@ -5,7 +5,7 @@ My name is Joshua Soberg, and I'm a Software Engineer with 8+ years professional
 </p>
 
 <p align="left">
-I hold an M.S in Computer Science and a B.S in Computer Science/Computer Security, both from <a href="https://www.esu.edu/">East Stroudsburg University</a>. Currently working full-time as an Android Software Engineer at <a href="https://multithreaded.stitchfix.com/engineering/">Stitch Fix</a>.
+I hold an M.S in Computer Science and a B.S in Computer Science/Computer Security, both from <a href="https://www.esu.edu/">East Stroudsburg University</a>. Currently working full-time as a Senior Android Software Engineer at <a href="https://www.alltrails.com/">AllTrails</a>.
 </p>
 
 <p align="center">
