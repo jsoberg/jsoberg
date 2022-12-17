@@ -12,6 +12,3 @@ I have an M.S in Computer Science and B.S in Computer Science/Computer Security,
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jsoberg&theme=github_dark">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsoberg&theme=github_dark">
 </p>
-<p align="center">
-From <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
-</p>
