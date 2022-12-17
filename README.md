@@ -1,15 +1,16 @@
 <h2 align="center">Joshua Soberg, Software Engineer</h2>
 
 <p align="left">
-My name is Joshua Soberg, and I'm a Software Engineer with 8+ years professional experience designing, developing, and publishing large-scale software solutions, mainly in the Android/Kotlin/Java space. Most of my experience involves delivering mobile applications for highly distributed, low reliability, and low bandwidth network environments. I enjoy trying out new languages/technologies, contributing to open source projects whenever possible, and <i>continuously</i> invalidating caches and restarting Android Studio.
+I'm a Software Engineer with 9+ years professional experience designing, developing, and publishing large-scale software products, primarily in the Android/Kotlin/Java space. Most of my experience involves delivering multiplatform applications for highly distributed, low reliability, and low bandwidth network environments. I'm passionate about learning through open source projects while I constantly invalidate caches and restart my IDE.
 </p>
 
 <p align="left">
-I hold an M.S in Computer Science and a B.S in Computer Science/Computer Security, both from <a href="https://www.esu.edu/">East Stroudsburg University</a>. Currently working full-time as a Senior Android Software Engineer at <a href="https://www.alltrails.com/">AllTrails</a>.
+I have an M.S in Computer Science and B.S in Computer Science/Computer Security, both from <a href="https://www.esu.edu/">East Stroudsburg University</a>. I'm currently working full-time as a Senior Android Software Engineer at <a href="https://www.alltrails.com/">AllTrails</a>.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsoberg&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars&theme=nord">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jsoberg&theme=zenburn">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsoberg&theme=zenburn">
 </p>
 <p align="center">
 From <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
