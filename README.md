@@ -1,7 +1,7 @@
 <h2 align="center">Joshua Soberg, Software Engineer</h2>
 
 <p align="left">
-Software Engineer with 9+ years professional experience designing, developing, and publishing large-scale software products, primarily in the Android/Kotlin/Java space. Most of my experience involves delivering multiplatform applications for highly distributed, low reliability, and low bandwidth network environments. I'm passionate about learning through open source projects while I constantly invalidate caches and restart my IDE.
+Software Engineer with 10+ years professional experience designing, developing, and publishing large-scale software products, primarily in the Android/Kotlin/Java space. Most of my experience involves delivering multiplatform applications for highly distributed, low reliability, and low bandwidth network environments. I'm passionate about learning through open source projects while I constantly invalidate caches and restart my IDE.
 </p>
 
 <p align="left">
